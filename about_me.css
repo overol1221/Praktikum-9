@@ -1,0 +1,30 @@
+.back,
+a {
+    margin-top: 5px;
+    background-color: #3b3d3d;
+    color: rgb(66, 52, 52);
+    text-decoration: none;
+    width: 70px;
+    height: 40px;
+    border: transparent;
+    border-radius: 5px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #ff0000;
+}
+
+p {
+    color: #555;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
